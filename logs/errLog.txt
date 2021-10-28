@@ -1,0 +1,12 @@
+2021-10-28 	 19:01:45	efaf4820-abf3-4365-805f-f8d0eb0017b6	Error : Not allowed by CORS 
+2021-10-28 	 19:01:57	2a2c9276-4a5e-4d2e-a2ad-09baa909ba6e	Error : Not allowed by CORS 
+2021-10-28 	 19:02:26	5c8677c4-3df5-4035-baa4-028b2c6624d6	Error : Not allowed by CORS 
+2021-10-28 	 19:03:21	78f3db48-cbb6-4b20-a61f-c6f877208ff2	Error : Not allowed by CORS 
+2021-10-28 	 19:03:45	19a7c7e8-dd65-42fb-b496-d7733bc4b294	Error : Not allowed by CORS 
+2021-10-28 	 19:23:51	029abcc6-e69a-4926-9f8e-28c25d6d3c7b	Error : Invalid credentials 
+2021-10-28 	 19:38:39	e88fb70c-0874-48fe-824a-0a2e03161359	Error : Invalid credentials 
+2021-10-28 	 19:41:51	0206c095-f9ff-4c46-924e-6b622f62fac8	Error : Invalid credentials 
+2021-10-28 	 19:42:04	801aa67a-b610-4692-a3e7-2eb2e9378f6e	Error : Invalid credentials 
+2021-10-28 	 19:43:06	15282a87-fe15-4323-81c1-11f8b648fd21	Error : Invalid credentials 
+2021-10-28 	 19:43:11	a3a5367b-e367-46c6-b682-ba57a3bc719f	Error : Invalid credentials 
+2021-10-28 	 20:29:49	4d8a32cd-ff96-44b4-a171-680b9ecb2456	Error : Not authorized to access this route 
